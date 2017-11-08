@@ -19,12 +19,12 @@ function add(){
 	//crear checkbox
 	var chck = document.createElement('input');
 	chck.type = 'checkbox';
-	//creamos icono de corazon
+	/*//creamos icono de corazon
 	var heart = document.createElement('i');
 	heart.classList.add('fa', 'fa-heart', 'heart');
 	//creamos icono de basura
 	var trash = document.createElement('i');
-	trash.classList.add('fa', 'fa-trash', 'trash');
+	trash.classList.add('fa', 'fa-trash', 'trash');*/
 	//nodos de texto del textarea
 	var textNewComment = document.createTextNode(comments);
 
